@@ -24,6 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylar410&show_icons=true&theme=react" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylar410&theme=react" alt="sylar410" /> </p> 
+          <div align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=sylar410&theme=react-dark&count_private=true">
+          </div>
          
 ![snake gif](https://github.com/sylar410/sylar410/blob/output/github-contribution-grid-snake.gif)
  
