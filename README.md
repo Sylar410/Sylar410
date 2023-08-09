@@ -25,7 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylar410&theme=highcontrast" alt="sylar410" /></p>
          
-![snake gif](https://github.com/sylar410/sylar410/blob/output/github-contribution-grid-snake.gif)
  
 
 
