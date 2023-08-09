@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Animesh Vastrakar</h1>
+<h1 align="center">Hello 👋, I'm Animesh Vastrakar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylar410&label=Profile%20views&color=b40e0e&style=plastic" alt="sylar410" /> </p>
